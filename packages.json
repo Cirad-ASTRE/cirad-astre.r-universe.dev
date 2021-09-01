@@ -6,5 +6,9 @@
     {
         "package": "mapMCDA",
         "url": "https://forgemia.inra.fr/umr-astre/mapMCDA"
+    },
+    {
+        "package": "geonetwork",
+        "url": "https://forgemia.inra.fr/umr-astre/geonetwork"
     }
 ]
