@@ -1,5 +1,9 @@
 [
     {
+        "package": "sit",
+        "url": "https://forgemia.inra.fr/umr-astre/sit"
+    },
+    {
         "package": "topomatch",
         "url": "https://forgemia.inra.fr/umr-astre/topomatch"
     },
