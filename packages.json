@@ -1,5 +1,9 @@
 [
     {
+        "package": "crashbayes",
+        "url": "https://forgemia.inra.fr/umr-astre/crashbayes"
+    },
+    {
         "package": "spreadrate",
         "url": "https://forgemia.inra.fr/umr-astre/spreadrate"
     },
