@@ -1,26 +1,26 @@
 [
     {
         "package": "crashbayes",
-        "url": "https://forgemia.inra.fr/umr-astre/training/crashbayes"
+        "url": "https://forge.inrae.fr/umr-astre/training/crashbayes"
     },
     {
         "package": "spreadrate",
-        "url": "https://forgemia.inra.fr/umr-astre/spreadrate"
+        "url": "https://forge.inrae.fr/umr-astre/spreadrate"
     },
     {
         "package": "sit",
-        "url": "https://forgemia.inra.fr/umr-astre/sit"
+        "url": "https://forge.inrae.fr/umr-astre/sit"
     },
     {
         "package": "topomatch",
-        "url": "https://forgemia.inra.fr/umr-astre/topomatch"
+        "url": "https://forge.inrae.fr/umr-astre/topomatch"
     },
     {
         "package": "mapMCDA",
-        "url": "https://forgemia.inra.fr/umr-astre/mapMCDA"
+        "url": "https://forge.inrae.fr/umr-astre/mapMCDA"
     },
     {
         "package": "geonetwork",
-        "url": "https://forgemia.inra.fr/umr-astre/geonetwork"
+        "url": "https://gitlab.cirad.fr/astre/geonetwork"
     }
 ]
