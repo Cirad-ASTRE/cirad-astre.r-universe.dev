@@ -22,5 +22,9 @@
     {
         "package": "geonetwork",
         "url": "https://gitlab.cirad.fr/astre/geonetwork"
+    },
+    {
+        "package": "practicalbayes",
+        "url": "https://gitlab.cirad.fr/astre/practicalbayes"
     }
 ]
